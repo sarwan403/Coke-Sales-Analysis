@@ -1,4 +1,5 @@
-#US Coca-Cola Sales & Profitability Analysis
+**#US Coca-Cola Sales & Profitability Analysis**
+
 🎯 Problem Framing & Objective Clarity
 In a highly competitive beverage market, maximizing retail performance requires a sharp, granular understanding of geographic trends, brand affinity, and channel efficiency.
 
